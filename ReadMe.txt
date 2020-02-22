@@ -1,28 +1,43 @@
-Free Bootstrap Theme for Developers & Startups
 
-Theme name:
-=======================================================================
-Appkit Landing
+TITLE: 
+Magazine - Blog Free Responsive HTML5 template
 
-Theme version:
-=======================================================================
-v1.2
+AUTHOR:
+DESIGNED & DEVELOPED by FREEHTML5.co
 
-Release Date:
-=======================================================================
-28 Dec 2016
+Website: http://freehtml5.co/
+Twitter: http://twitter.com/fh5co
+Facebook: http://facebook.com/fh5co
 
-Author: 
-=======================================================================
-Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
 
-Contact:
-=======================================================================
-Web: http://themes.3rdwavemedia.com/
-Email: themes@3rdwavemedia.com
-Twitter: @3rdwave_themes
+CREDITS:
 
-License: 
-=======================================================================
-This template is free under the Creative Commons Attribution 3.0 License.
-https://creativecommons.org/licenses/by/3.0/
+Bootstrap
+http://getbootstrap.com/
+
+jQuery
+http://jquery.com/
+
+jQuery Easing
+http://gsgd.co.uk/sandbox/jquery/easing/
+
+Modernizr
+http://modernizr.com/
+
+Google Fonts
+https://www.google.com/fonts/
+
+Icomoon
+https://icomoon.io/app/
+
+Respond JS
+https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
+
+animate.css
+http://daneden.me/animate
+
+jQuery Waypoint
+https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+
+Demo Images:
+http://unsplash.com
